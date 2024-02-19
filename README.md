@@ -1,5 +1,5 @@
 
-# Ian's Perosnal Wiki
+# Ian's Personal Wiki
 <html>
   <body>
 <ul>
