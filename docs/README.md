@@ -11,6 +11,7 @@
   <li><a href='/docs/Classes/MKTG/mktg.html'>Marketing Management</a></li>
 </ul>
 <h2>Personal</h2>
+<ul><li><a href="/docs/personal/fav-foods.html">Favorite Foods<a/</li></ul>
 <h2>Work</h2>
   </body>
 </html>
